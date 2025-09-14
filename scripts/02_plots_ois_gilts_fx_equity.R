@@ -508,7 +508,7 @@ ois2 <- ggplot(
   theme(legend.position = "none") +
   scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
   labs(
-    title = "GBP OIS Curves: The past 12 months",
+    title = "GBP OIS Curves: The past 4 months",
     subtitle = "monthly averages of end-of-day daily data",
     x = "date",
     y = "rate %",
