@@ -18,14 +18,14 @@ source(here::here("scripts", "07_BoE-forecasts.R"))
 
 **Overview** The BoE's MPC meeting (Thurs) will dominate the week, along with President Trump's visit to the UK. 
 
-**Key releases**
-- UK CPI (Tues), Labour Market data (Weds) and Retail Sales (Fri) are the week's key releases. 
-- **Consensus** expects CPI to fall to 3.6%yoy (from 3.8%) and the unemployment rate to rise to 4.3% (from 4.2%).
-- **We expect** xxx
+**Key releases**  
+- UK CPI (Tues), Labour Market data (Weds) and Retail Sales (Fri) are the week's key releases.   
+- **Consensus** expects CPI to fall to 3.6%yoy (from 3.8%) and the unemployment rate to rise to 4.3% (from 4.2%).  
+- **We expect** xxx   
 
-**BoE speakers** Bailey-led Press Conference (Thurs), with MPC Minutes, alongside the MPC decision and Policy Statement. There are no new macro forecasts at this meeting.
+**BoE speakers** Bailey-led Press Conference (Thurs), with MPC Minutes, alongside the MPC decision and Policy Statement. There are no new macro forecasts at this meeting.  
+**Politics** The UK Government has been weakened in recent weeks, raising the prospect of fiscal slippage in the run-in to (and after) the Nov 26 Budget.    
 
-**Politics** The UK Government continues to look politically weak, raising the prospect of fiscal slippage in the run-in to (and after) the Nov 26 Budget.  
 
 # Week in Review
 
@@ -54,11 +54,11 @@ plot.gilts.eq
 
 # Week Ahead Preview
 
-**UK August CPI** (Weds, xxx): 
+**UK July / August Labour market** (Tues, 16.09) 
 
-**UK July / August Labour market** (Weds, xxx) 
+**UK August CPI** (Weds, 17.09): 
 
-**UK August Retail Sales** (Fri, xxx):
+**UK August Retail Sales** (Fri, 19.09):
 
 
 ## UK Macro narrative  
@@ -66,9 +66,10 @@ _Starting point_ The UK faces an ongoing inflation problem of above-target infla
 
 _Policy_ Facing this trade-off between the speed of returning inflation to target and degree of economic slack, we expect the BoE to hold Bank Rate at 4.0% until the new year. The Autumn Budget (Nov 26) is a key event, where fiscal policy will be tightened by around 1% of GDP to meet HMG's fiscal rules, although how front-loaded is that tightening is much less clear (an additional freezing in personal allowance will be back-loaded into 2028 and 2029). If some of the tax rises are front-loaded then it will encourage the BoE to lower Bank Rate, bringing it closer to a neutral rate which we assume is 3.5%. We expect a next rate cut to 3.75% takes place in February, with market pricing implying some risk of a rate cut before then. 
 
-_Outlook and Risks_ The MPC is divided on the timing of the next rate cut, including on the need to allow for uncertain supply-shocks that weigh on the economy's speed llimit. Volatility in bond markets, particularly at the long-end, draws attention both to the MPC's QT decision and the DMO's funding strategy. We and Consensus expect the MPC to tilt away from asking markets to absorb so much long-end duration. That points to the BoE ending its active QT sales over the next year, taking its annual run-off from GBP100bn to GBP50bn, and the DMO to further reduce its issuance of long-dated debt. 
+Volatility in bond markets, particularly at the long-end, draws attention both to the MPC's QT decision and the DMO's funding strategy. We and Consensus expect the MPC to tilt away from asking markets to absorb so much long-end duration. That points to the BoE ending its active QT sales over the next year, taking its annual run-off from GBP100bn to GBP50bn, and the DMO to further reduce its issuance of long-dated debt.
 
-IFTT
+_Outlook and Risks_ The MPC is divided on the timing of the next rate cut. Differences in view on the need to allow for uncertain supply-shocks that weigh on the economy's speed llimit or that may have affected wage- and price-setting are key sources of division. If wage growth moderates as expected, and partly because businesses doubt their ability to pass on higher wages into higher prices, then the MPC will be more comfortable with a rate cut. If wage growth remains elevated, and/or if inflation expectations become unanchored, then the MPC will want to see more evidence of slack before cutting rates.
+
 
 
 ```{r}
