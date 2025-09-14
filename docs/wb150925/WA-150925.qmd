@@ -53,9 +53,11 @@ plot.gilts.eq
 
 # Week Ahead Preview
 
-CPI (Weds, xxx): 
+**UK August CPI** (Weds, xxx): 
 
-Labour market: 
+**UK July / August Labour market** (Weds, xxx) 
+
+**UK August Retail Sales** (Fri, xxx):
 
 
 ## Macro narrative  
