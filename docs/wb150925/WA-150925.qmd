@@ -1,0 +1,83 @@
+---
+title: "UK -- Week Ahead"
+subtitle: "w/b: 15/09/25"
+format: pdf
+execute:
+  warning: false
+  message: false
+  echo: false
+---
+
+```{r}
+#| include: false
+source(here::here("scripts", "01_create_data.R"))
+source(here::here("scripts", "02_plots_ois_gilts_fx_equity.R"))
+source(here::here("scripts", "07_BoE-forecasts.R"))
+
+```
+
+**Overview** The BoE's MPC meeting (Thurs) will dominate the week. 
+
+**Key releases** UK CPI (Tues), Labour market data (Weds) and Retail Sales (Fri) are the week's key releases. We expect CPI to fall to 3.6%yoy (from 3.8%) and the unemployment rate to rise to 4.3% (from 4.2%).
+
+Meanwhile, the Government continues to look politically weak raising the prospect of fiscal slippage in the run-in to (and after) the Nov 26 Budget.  
+
+**BoE speakers** Bailey-led Press Conference (Thurs), with MPC Minutes. There are no new macro forecasts at this meeting.
+
+# Week in Review
+
+Last week was dominated by political news weakening PM Starmer's standing within his own party. That the PM looks politicially weak raises the prospect of fiscal slippage in the run-in to (and after) the Nov. 26 Budget. That said, Starmer is trying to reassure the corporate sector that tax rises will not be as squarely focused on the corpiorate sector as in last year's Budget.
+
+```{r}
+#| label: fig-ois
+#| fig-cap: "OIS and Sterling"
+#| results: hide
+
+plot.ois.gbp
+```
+
+
+
+```{r}
+#| label: fig-gilts
+#| fig-cap: "Gilts and Equities"
+#| results: hide
+
+plot.gilts.eq
+```
+
+
+\newpage
+
+# Week Ahead Preview
+
+CPI (Weds, xxx): 
+
+Labour market: 
+
+
+## Macro narrative  
+The UK faces an ongoing inflation problem of above-target inflation; and, while unemployment is historically low, it is rising and starting to open up some slack. Facing this 'stagflationary' impulse, a fiscal tightening (of around 3% of GDP) is still planned over coming years, but will be politically difficult to implement -- implying a risk of 'fiscal fatigue' that induces some volatility into its bond market. The BoE requires some degree of slack to open-up if it is to ensure a return of CPI to its 2.0% target, from 3.8% currently. 
+
+Facing this trade-off between the speed of returning inflation to target and degree of economic slack, we expect the BoE to hold Bank Rate at 4.0% until the new year. The Autumn Budget (Nov 26) is a key event, where fiscal policy will be tightened by around 1% of GDP to meet HMG's fiscal rules, although how front-loaded is that tightening is much less clear (an additional freezing in personal allowance will be back-loaded into 2028 and 2029). If some of the tax rises are front-loaded then it will encourage the BoE to lower Bank Rate, bringing it closer to a neutral rate which we assume is 3.5%. We expect a next rate cut to 3.75% takes place in February, with market pricing implying some risk of a rate cut before then. 
+
+The MPC is divided on the timing of the next rate cut, including on the need to allow for uncertain supply-shocks that weigh on the economy's speed llimit. Volatility in bond markets, particularly at the long-end, draws attention both to the MPC's QT decision and the DMO's funding strategy. We and Consensus expect the MPC to tilt away from asking markets to absorb so much long-end duration. That points to the BoE ending its active QT sales over the next year, taking its annual run-off from GBP100bn to GBP50bn, and the DMO to further reduce its issuance of long-dated debt. 
+
+
+```{r}
+#| label: fig-infl-successive
+#| fig-cap: "Successive BoE Inflation Forecasts"
+#| results: hide
+
+infl.forecasts.latest
+```
+
+
+```{r}
+#| label: fig-ois-successive
+#| fig-cap: "Successive OIS Curves"
+#| results: hide
+
+ois2
+```
+
