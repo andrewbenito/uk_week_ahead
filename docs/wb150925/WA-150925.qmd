@@ -18,13 +18,14 @@ source(here::here("scripts", "07_BoE-forecasts.R"))
 
 **Overview** The BoE's MPC meeting (Thurs) will dominate the week. 
 
-**Key releases** 
-- UK CPI (Tues), Labour market data (Weds) and Retail Sales (Fri) are the week's key releases. 
+**Key releases**
+- UK CPI (Tues), Labour Market data (Weds) and Retail Sales (Fri) are the week's key releases. 
 - **Consensus** expects CPI to fall to 3.6%yoy (from 3.8%) and the unemployment rate to rise to 4.3% (from 4.2%).
+- **We expect** xxx
 
-**BoE speakers** Bailey-led Press Conference (Thurs), with MPC Minutes. There are no new macro forecasts at this meeting.
+**BoE speakers** Bailey-led Press Conference (Thurs), with MPC Minutes, alongside the MPC decision and Policy Statement. There are no new macro forecasts at this meeting.
 
-The UK Government continues to look politically weak raising the prospect of fiscal slippage in the run-in to (and after) the Nov 26 Budget.  
+**Politics** The UK Government continues to look politically weak, raising the prospect of fiscal slippage in the run-in to (and after) the Nov 26 Budget.  
 
 # Week in Review
 
