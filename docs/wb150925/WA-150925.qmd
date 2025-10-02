@@ -64,15 +64,15 @@ plot.gilts.eq
 
 
 # UK Macro narrative  
-The UK faces persistent, above-target inflation; and while unemployment is historically low, it is rising and starting to open up some slack. Facing this 'stagflationary' impulse, a fiscal tightening (of around 3% of GDP) is planned over coming years, but will be politically difficult to implement -- implying a risk of 'fiscal fatigue' and bond market volatility.  
+Alongside above-target inflation, unemployment is historically low but rising and starting to open up some slack. Facing this 'stagflationary' impulse, a fiscal tightening (of around 3% of GDP) is planned over coming years, but will be politically difficult to implement -- implying a risk of 'fiscal fatigue' and bond market volatility.  
 
-_Policy_ The BoE requires some degree of slack to open-up if it is to ensure a return of CPI to its 2.0% target, from 3.8% currently. Facing this trade-off, we expect the BoE to hold Bank Rate at 4.0% until the new year to raise confidence in a declining inflation path. 
+_Policy_ The BoE requires some degree of slack to open-up if it is to ensure a return of CPI to its 2.0% target, from 3.8% currently. Facing this trade-off, we expect the BoE to hold Bank Rate at 4.0% until the new year to raise confidence in a declining inflation path and then lower rates to around neutral, assumed at 3.5%. 
 
-The Autumn Budget (Nov 26) is a key event, where tax rises of around 1% of GDP will be needed to meet HMG's fiscal rules. How front-loaded is that tightening is much less clear (an additional freezing in personal allowances will be back-loaded into 2028 and 2029). Sector-level equity market impacts are hard to anticipate but financials are at risk. If some of the tax rises are front-loaded then it will encourage the BoE to lower Bank Rate by weighing on growth and inflation, bringing Bank Rate closer to a neutral rate which we assume is 3.5%. 
+Tax rises of around 1% of GDP will be needed in the Autumn Budget (Nov.26) to meet HMG's fiscal rules. How front-loaded is that tightening is much less clear. Extended freezing of personal allowances would be back-loaded into 2028 and 2029. Sector-level equity market impacts are hard to anticipate but financials are at risk. If some of the tax rises are front-loaded then it will encourage the BoE to lower Bank Rate by weighing on growth and inflation, bringing Bank Rate closer to a neutral rate which we assume is 3.5%. 
 
 The median Sell-side analyst expects a next cut in Bank Rate in xxx. We expect a next rate cut to 3.75% in February, although market pricing implies some risk of a rate cut before then. 
 
-_Outlook and Risks_ Differences in view on the need to allow for uncertain supply-shocks that weigh on the economy's speed limit and have affected wage- and price-setting are key sources of division on the BoE's MPC. If wage growth moderates as expected, and partly because businesses doubt their ability to pass on higher wages into higher prices, then the MPC will be more comfortable with a rate cut. If wage growth remains elevated, and/or if inflation expectations drift from the inflation target, then the MPC will want to see more evidence of slack before cutting rates.  
+_Outlook and Risks_ Differences in view on the need to allow for uncertain supply-shocks weighing on the UK economy's speed limit while maintaining inflation risks are key sources of division on the BoE's MPC. If wage growth moderates as expected, and partly because businesses doubt their ability to pass on higher wages into higher prices, then the MPC will be more comfortable with a rate cut. If wage growth remains elevated, and/or if inflation expectations drift from the inflation target, then the MPC will want to see more evidence of slack before cutting rates.  
 
 
 ```{r}
@@ -96,6 +96,6 @@ ois2
 # UK Macro views
 
 1. Expect fiscal fatigue relative to the 3% of GDP required fiscal effort, needed to stabilise debt to GDP. The Government will outline plans for fiscal consolidation, but struggle to implement those plans. We are sceptical the Gov will moderate public spending to 1.1-1.3% pa in 2027-29.
-2. Expect periodic risk premiums as necessary but not sufficient to deliver required political will for stabilising debt.
-3. Expect a higher incidence of Supply side shocks pushing up on inflation amid sluggish growth and high public debt. Inflation to moderate in 2026, as softer wage growth is passed-through, but inflation will remain above the 2% target through 2026, with trend growth in the 1-1.5% range.
-4. Uncertain supply judgements lead to greater disagreement about the UK outlook, incl on the MPC, that will challenge BoE independence. 
+2. Expect periodic risk premiums as being necessary but not sufficient to deliver the required political will for stabilising debt.
+3. Expect a higher incidence of Supply side shocks pushing up on inflation amid sluggish growth and high public debt. Inflation to moderate in 2026, as softer wage growth is passed-through to CPI, but inflation will remain above the 2% target through 2026, with trend growth in the 1-1.5% range.
+4. Uncertain supply judgements lead to greater disagreement about the UK macro outlook, incl on the MPC, that will challenge BoE independence. Fiscal risk premiums tilt the BoE hawkish at the margin. Rate cuts will resume when a margin of spare capacity opens up to weigh against inflation. 
