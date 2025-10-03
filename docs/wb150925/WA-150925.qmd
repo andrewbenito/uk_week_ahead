@@ -30,7 +30,7 @@ source(here::here("scripts", "07_BoE-forecasts.R"))
 
 **Last week** The MPC held Bank Rate at 4.0%, as widely expected and on a 7-2 vote. The MPC's Policy Statement noted that medium-term inflation risks were in focus (tilting hawkish). The MPC also lowered its annual pace of Balance Sheet reduction (Quantitative Tightening) from GBP100bn to GBP70bn, also in-line.  
 
-In a market response that tilted hawkish, 2y and 5y OIS moved higher on the day, while GBPUSD weakened modestly (@fig-ois). Gilt yields also rose.  
+Market responses tilted hawkish, 2y and 5y OIS moved higher on the day, while GBPUSD weakened modestly (@fig-ois). Gilt yields also rose.  
 
 
 ```{r}
